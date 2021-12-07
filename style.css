@@ -38,7 +38,7 @@ body{
 }
 .kent ul li{
     list-style-type: none;
-    display: inline;
+    display: inline-block;
 }
 .kent ul li a{
     text-decoration: none;
